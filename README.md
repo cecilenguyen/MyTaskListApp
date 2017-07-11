@@ -2,3 +2,10 @@ Simple task checklist application using the MEAN stack. Code from https://www.yo
 
 Launch server using $ node server
 Go to localhost:3000
+
+Dependencies:
+express 
+body-parser
+ejs
+mongojs
+bower
